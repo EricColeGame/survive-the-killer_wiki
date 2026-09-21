@@ -34,265 +34,295 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Survive the Killer Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn basic survivor controls, map navigation, stealth mechanics, and how to avoid the killer's grasp."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Redeem Free Codes",
+          "description": "Unlock free knife skins, weapons, and bonus currency with the latest working Survive the Killer promo codes."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Master Killer Roles",
+          "description": "Discover killer character mechanics, special abilities, tracking techniques, and round-winning ambush tactics."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Knife Values & Trading",
+          "description": "Check knife rarities, trade values, and market tier rankings to negotiate fair trades in the lobby."
         }
       ]
     },
     "popular": {
-      "eyebrow": "Popular Pages",
+      "eyebrow": "Popular Guides",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Killer Tier List",
+        "Knife Values",
+        "Active Codes",
+        "Survivor Tips"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first round to escaping killers and rescuing teammates.",
+          "href": "/guide/survive-the-killer-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
           "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "href": "/codes/survive-the-killer-codes"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Items",
+          "title": "Knives Guide",
+          "description": "Complete weapon database with knife rarities and trading values.",
+          "href": "/items/survive-the-killer-knives"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Killers",
+          "title": "All Killers",
+          "description": "Every killer character, special ability, and pursuit strategy.",
+          "href": "/characters/survive-the-killer-killers"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Trading",
+          "title": "Knife Value List",
+          "description": "Accurate knife values and trading tier list for fair trades.",
+          "href": "/trading/survive-the-killer-value-list"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Maps",
+          "title": "Maps Guide",
+          "description": "Master map layouts, escape routes, and hiding spots.",
+          "href": "/maps/survive-the-killer-maps"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Survive the Killer?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Survive the Killer is a thrilling multiplayer horror experience on Roblox where players are plunged into tense, heart-pounding survival matches. In each round, one player is chosen as the Killer tasked with hunting down everyone else, while the remaining Survivors must work together to explore spooky maps, collect valuable loot, revive downed teammates, and escape before time runs out.",
+        "Featuring dozens of iconic killers, hundreds of collectible knives with unique particle effects, and an active trading economy, Survive the Killer combines suspenseful cat-and-mouse gameplay with rewarding progression. Whether you prefer sneaking through dark corridors as a cunning survivor or dominating the lobby as an unstoppable slasher, every match offers fresh challenges."
       ],
+      "cta": "Read Beginner Guide",
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
+          "label": "Total Visits",
+          "value": "1B+"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Weapons",
+          "value": "100+"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Active Codes",
+          "value": "Weekly"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
-        },
-        {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Game Mode",
+          "value": "Survival"
         }
-      ],
-      "cta": "Explore All Guides"
+      ]
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Survive the Killer Wiki",
+      "description": "Master every match in Survive the Killer with comprehensive guides, active codes, killer breakdowns, knife rarity value lists, and map escape strategies.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Survive the Killer Codes",
+          "description": "A dedicated codes section for players searching for active and expired Survive the Killer reward codes. It can include redeem steps, reward details, and update notes when new codes are released.",
+          "href": "/codes/survive-the-killer-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "DESYNC",
+              "detail": "Redeem for The Broken Clock Knife",
+              "badge": "Active"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "PESTILENCE",
+              "detail": "Redeem for Pestilence Slasher Weapon",
+              "badge": "Active"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "RED",
+              "detail": "Redeem for Rust Dagger Weapon Skin",
+              "badge": "Active"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Survive the Killer Beginner Guide",
+          "description": "A starter guide covering core gameplay, survivor objectives, killer mechanics, escaping strategies, and important tips for new players. This module targets searches from users who want to learn how to play and improve quickly.",
+          "href": "/guide/survive-the-killer-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Explore the map layout early to locate exits, lockers, and high-value loot spots."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Listen closely for heartbeat audio cues that indicate an approaching killer."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Revive fallen teammates quickly when the killer moves away to hunt others."
+            },
+            {
+              "label": "4",
+              "detail": "Sprint to the unlocked exit doors immediately when the survival countdown ends."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Survive the Killer Knives Guide",
+          "description": "A collection guide explaining knife items, rarity categories, collectible weapons, and trading-related information. Players frequently search for knife values, rare items, and ways to build their inventory.",
+          "href": "/items/survive-the-killer-knives",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Common",
+              "detail": "Standard starter blades available through basic shop crates."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Rare",
+              "detail": "Distinctive bladed weapons with custom designs and subtle glows."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Legendary",
+              "detail": "High-tier weapons featuring vibrant particle trails and animations."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Limited",
+              "detail": "Seasonal event knives with exclusive designs and high trade value."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Survive the Killer Killer Guide",
+          "description": "A gameplay guide focused on killer characters, abilities, strategies, and how to win rounds as the killer role. It helps users searching for killer tips and character information.",
+          "href": "/characters/survive-the-killer-killers",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Slasher",
+              "detail": "Aggressive killers relying on relentless speed and devastating melee swings."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Stalker",
+              "detail": "Stealth killers that track survivor footsteps and ambush around tight corners."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Disruptor",
+              "detail": "Tactical killers that lock down escape routes and pressure group objectives."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Survive the Killer Survivor Guide",
+          "description": "A survival-focused module explaining escape routes, teammate rescue methods, hiding techniques, and ways to survive longer during matches. It targets beginner and strategy-related searches.",
+          "href": "/guide/survive-the-killer-best-strategies",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Scatter across different rooms to avoid giving the killer multi-down opportunities."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Use crouch walking behind obstacles to break direct line of sight during chases."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Bait killer attacks around corners to force missed swings and recovery lag."
+            },
+            {
+              "label": "4",
+              "detail": "Form escape groups toward the nearest exit gate once doors open."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Survive the Killer Item Tier List",
+          "description": "A ranking section for collectible knives and items based on rarity, popularity, and trading demand. This module can attract users searching for item rankings and valuable inventory information.",
+          "href": "/trading/survive-the-killer-value-list",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "Unobtainable limited event knives and high-tier collector grails."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "Top legendary weapons and sought-after currency blades in trading."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "Mid-tier rare crate weapons with steady demand and stylish visual effects."
+            },
+            {
+              "label": "C",
+              "detail": "Common starter knives easily obtained through regular gameplay and crates."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Survive the Killer Maps Guide",
+          "description": "A map database explaining different locations, layouts, escape areas, and useful strategies for each environment. It supports searches from players looking for map knowledge and survival routes.",
+          "href": "/maps/survive-the-killer-maps",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Mansion",
+              "detail": "Multi-level haunted estate packed with hidden staircases and tight hallways."
+            },
+            {
+              "label": "Area 51",
+              "detail": "Secret underground bunker featuring long corridors and heavy security doors."
+            },
+            {
+              "label": "Cabins",
+              "detail": "Outdoor woodland camp with scattered wooden huts and wide looping paths."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Survive the Killer Updates",
+          "description": "A news and update tracker covering new events, seasonal content, changes, and important announcements. This keeps the website fresh for returning players searching for the latest information.",
+          "href": "/progression/survive-the-killer-updates",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "v1.45",
+              "detail": "Added seasonal limited knives and updated map balance adjustments.",
+              "badge": "Latest"
+            },
+            {
+              "label": "v1.42",
+              "detail": "Killer hitbox refinement and survivor sprint stamina optimizations.",
+              "badge": "Patch"
+            },
+            {
+              "label": "v1.40",
+              "detail": "Major holiday event launch with exclusive reward tracks and new killers.",
+              "badge": "Event"
             }
           ]
         }
@@ -300,27 +330,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to common questions about Survive the Killer codes, gameplay, killers, and knife trading.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Survive the Killer?",
+          "answer": "Survive the Killer is a popular Roblox horror survival game where players either play as a terrifying killer hunting down victims or as survivors working together to gather loot, revive teammates, and escape before the timer expires."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I redeem Survive the Killer codes?",
+          "answer": "To redeem codes in Survive the Killer, launch the game on Roblox, click the Twitter icon or Codes button in the lobby, type in an active code, and click Redeem to receive free knives, coins, and cosmetic rewards."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do you win as a survivor in Survive the Killer?",
+          "answer": "To win as a survivor in Survive the Killer, stay alert for the killer's heartbeat radius, crouch behind obstacles to break line of sight, rescue downed teammates, and sprint to the exit gates when the escape doors unlock."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How many killers are in Survive the Killer?",
+          "answer": "Survive the Killer features dozens of distinct killers including Jason, Malvus, Grimsley, and special seasonal killers, each equipped with unique weapon skins, walking animations, and pursuit sound effects."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How does knife trading work in Survive the Killer?",
+          "answer": "Players can trade collectible knives and weapons in the Survive the Killer trading area. Knife values are determined by rarity, event exclusivity, and community trading demand."
         }
       ]
     },
