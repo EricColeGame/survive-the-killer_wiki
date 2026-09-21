@@ -12,7 +12,7 @@ const messagesMap = {
 
 type Messages = typeof en;
 
-function deepMerge<T>(base: T, override: Partial<T>): T {
+function deepMerge<T>(base: T, override: unknown): T {
   if (
     typeof base !== "object" ||
     base === null ||
@@ -44,7 +44,7 @@ export default getRequestConfig(async ({ requestLocale }) => {
     ? requested
     : routing.defaultLocale;
 
-  let localeMessages: Partial<Messages> = {};
+  let localeMessages: Record<string, unknown> = {};
   if (locale !== "en" && locale in messagesMap) {
     try {
       const imported = await messagesMap[locale as keyof typeof messagesMap]();

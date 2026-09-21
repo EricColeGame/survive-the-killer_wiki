@@ -38,7 +38,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
   if (!hasLocale(routing.locales, locale)) notFound();
   const messages = await getMessages({ locale });
   const organization = {
-    "@context": "https://survive-the-killer.wiki",
+    "@context": "https://schema.org",
     "@type": "Organization",
     name: siteConfig.name,
     url: siteUrl,
@@ -56,7 +56,10 @@ export default async function LocaleLayout({ children, params }: { children: Rea
             async
             strategy="afterInteractive"
             crossOrigin="anonymous"
-            src={`https://survive-the-killer.wiki"class" defaultTheme="dark" enableSystem={false}>
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseId}`}
+          />
+        )}
+        <ThemeProvider attribute="class" defaultTheme="dark" enableSystem={false}>
           <NextIntlClientProvider messages={messages}>
             <JsonLd data={organization} />
             <SiteHeader locale={locale} />
