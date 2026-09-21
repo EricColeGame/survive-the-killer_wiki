@@ -6,7 +6,15 @@
     "description": "Complete Survive the Killer Wiki with Roblox codes, weapon guides, killer tips, maps, skins, and survival strategies to help players escape every round.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "items": "Items",
+    "trading": "Trading",
+    "characters": "Characters",
+    "maps": "Maps",
+    "progression": "Progression"
+  },
   "home": {
     "meta": {
       "title": "Survive the Killer Wiki — Codes, Weapons & Guides",
@@ -361,7 +369,6 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -397,5 +404,33 @@
     "buildGuide": "Maps & Tips",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "codes": {
+    "overviewTitle": "Survive the Killer Codes",
+    "overviewDescription": "Explore all active and working codes for Survive the Killer to redeem free gems, coins, knives, and exclusive cosmetic rewards."
+  },
+  "guide": {
+    "overviewTitle": "Survive the Killer Guides & Tutorials",
+    "overviewDescription": "Master gameplay strategies, survival basics, killer mechanics, controls, and essential tips to win every match in Survive the Killer."
+  },
+  "items": {
+    "overviewTitle": "Survive the Killer Items & Knives",
+    "overviewDescription": "Discover all weapons, knife rarities, exclusive limited items, and shop inventories available in Survive the Killer."
+  },
+  "trading": {
+    "overviewTitle": "Survive the Killer Trading & Value Lists",
+    "overviewDescription": "Check the latest knife values, trade calculators, market pricing tiers, and fair trading tips for Survive the Killer."
+  },
+  "characters": {
+    "overviewTitle": "Survive the Killer Characters & Killers",
+    "overviewDescription": "Comprehensive list and analysis of all killers in Survive the Killer, including Jason, Grimsley, Malvus, and special killers."
+  },
+  "maps": {
+    "overviewTitle": "Survive the Killer Maps & Locations",
+    "overviewDescription": "Detailed overview of all maps in Survive the Killer, including Cabins, Area 51, Haunted Mansion, escape routes, and hiding spots."
+  },
+  "progression": {
+    "overviewTitle": "Survive the Killer Progression, Events & Updates",
+    "overviewDescription": "Track leveling systems, gems, coins, loot mechanics, seasonal events, XP boosts, and recent updates in Survive the Killer."
   }
 }
