@@ -13,7 +13,9 @@
     "trading": "Trading",
     "characters": "Characters",
     "maps": "Maps",
-    "progression": "Progression"
+    "progression": "Progression",
+    "toggleTheme": "Toggle theme",
+    "menu": "Menu"
   },
   "home": {
     "meta": {

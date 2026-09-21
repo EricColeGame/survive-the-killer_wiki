@@ -13,7 +13,9 @@
     "trading": "Intercambios",
     "characters": "Personajes",
     "maps": "Mapas",
-    "progression": "Progresión"
+    "progression": "Progresión",
+    "toggleTheme": "Cambiar tema",
+    "menu": "Menú"
   },
   "home": {
     "meta": {
@@ -34,5 +36,69 @@
       "browse": "Ver todas las guías",
       "viewAll": "Ver todo"
     }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos Activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de Contenidos",
+    "nextSteps": "Próximos Pasos",
+    "needHelp": "¿Necesitas Ayuda?",
+    "relatedReading": "Lectura Relacionada",
+    "relatedGuides": "Guías Relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios Oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "No hay guías disponibles todavía. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Survive the Killer Wiki",
+    "about": "Survive the Killer Wiki es un centro de guías independiente creado por fans que cubre estrategias de supervivencia, asesinos, armas, códigos y conocimientos esenciales del juego tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces Rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Survive the Killer Wiki. No afiliado con DRed Studios, Slyce Entertainment o Roblox.",
+    "description": "Juego de terror y supervivencia en Roblox. Escapa de asesinos peligrosos, desbloquea armas, colecciona skins y sobrevive a rondas intensas.",
+    "playGame": "Jugar Survive the Killer",
+    "officialDiscord": "Discord Comunitario de Roblox",
+    "officialYoutube": "YouTube de Roblox",
+    "vvBuilder": "Comunidad Wiki",
+    "beginnerGuide": "Guía de Supervivencia",
+    "raceGuides": "Guía de Asesinos",
+    "bossGuides": "Guía de Armas",
+    "buildGuide": "Mapas y Consejos",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de Servicio"
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Survive the Killer",
+    "overviewDescription": "Explora todos los códigos activos y funcionales de Survive the Killer para canjear gemas, monedas, cuchillos y recompensas cosméticas exclusivas."
+  },
+  "guide": {
+    "overviewTitle": "Guías y Tutoriales de Survive the Killer",
+    "overviewDescription": "Domina las estrategias de juego, aspectos básicos de supervivencia, mecánicas del asesino, controles y consejos esenciales para ganar cada partida en Survive the Killer."
+  },
+  "items": {
+    "overviewTitle": "Objetos y Cuchillos de Survive the Killer",
+    "overviewDescription": "Descubre todas las armas, rarezas de cuchillos, objetos limitados exclusivos e inventarios de tiendas disponibles en Survive the Killer."
+  },
+  "trading": {
+    "overviewTitle": "Intercambios y Lista de Valores de Survive the Killer",
+    "overviewDescription": "Consulta los valores más recientes de cuchillos, calculadoras de intercambio, niveles de precios del mercado y consejos para intercambiar de manera justa en Survive the Killer."
+  },
+  "characters": {
+    "overviewTitle": "Personajes y Asesinos de Survive the Killer",
+    "overviewDescription": "Lista completa y análisis de todos los asesinos en Survive the Killer, incluyendo Jason, Grimsley, Malvus y asesinos especiales."
+  },
+  "maps": {
+    "overviewTitle": "Mapas y Ubicaciones de Survive the Killer",
+    "overviewDescription": "Resumen detallado de todos los mapas en Survive the Killer, incluyendo Cabañas, Área 51, Mansión Encantada, rutas de escape y escondites."
+  },
+  "progression": {
+    "overviewTitle": "Progresión, Eventos y Actualizaciones de Survive the Killer",
+    "overviewDescription": "Sigue los sistemas de nivelación, gemas, monedas, mecánicas de botín, eventos de temporada, mejoras de XP y actualizaciones recientes en Survive the Killer."
   }
 }

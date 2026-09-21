@@ -13,7 +13,9 @@
     "trading": "Handel",
     "characters": "Charaktere",
     "maps": "Karten",
-    "progression": "Fortschritt"
+    "progression": "Fortschritt",
+    "toggleTheme": "Design umschalten",
+    "menu": "Menü"
   },
   "home": {
     "meta": {
@@ -34,5 +36,69 @@
       "browse": "Alle Guides ansehen",
       "viewAll": "Alle anzeigen"
     }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Weiterführende Lektüre",
+    "relatedGuides": "Verwandte Leitfäden",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Leitfäden verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Survive the Killer Wiki",
+    "about": "Survive the Killer Wiki ist ein unabhängiger, von Fans erstellter Leitfaden-Hub, der Überlebensstrategien, Killer, Waffen, Codes und grundlegendes Spielwissen für neue und erfahrene Spieler abdeckt.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Leitfäden",
+    "legal": "Rechtliches",
+    "copyright": "2026 Survive the Killer Wiki. Nicht verbunden mit DRed Studios, Slyce Entertainment oder Roblox.",
+    "description": "Roblox-Horror-Überlebensspiel. Entkomme gefährlichen Killern, schalte Waffen frei, sammle Skins und überlebe intensive Runden.",
+    "playGame": "Survive the Killer spielen",
+    "officialDiscord": "Roblox Community-Discord",
+    "officialYoutube": "Roblox YouTube",
+    "vvBuilder": "Wiki-Community",
+    "beginnerGuide": "Überlebensleitfaden",
+    "raceGuides": "Killer-Leitfaden",
+    "bossGuides": "Waffen-Leitfaden",
+    "buildGuide": "Karten & Tipps",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen"
+  },
+  "codes": {
+    "overviewTitle": "Survive the Killer Codes",
+    "overviewDescription": "Entdecke alle aktiven und funktionierenden Codes für Survive the Killer, um kostenlose Edelsteine, Münzen, Messer und exklusive kosmetische Belohnungen einzulösen."
+  },
+  "guide": {
+    "overviewTitle": "Survive the Killer Leitfäden & Tutorials",
+    "overviewDescription": "Meistere Gameplay-Strategien, Überlebensgrundlagen, Killer-Mechaniken, Steuerung und wichtige Tipps, um jede Runde in Survive the Killer zu gewinnen."
+  },
+  "items": {
+    "overviewTitle": "Survive the Killer Gegenstände & Messer",
+    "overviewDescription": "Entdecke alle Waffen, Messerseltenheiten, exklusive limitierte Gegenstände und Shop-Inventare in Survive the Killer."
+  },
+  "trading": {
+    "overviewTitle": "Survive the Killer Handel & Wertelisten",
+    "overviewDescription": "Überprüfe aktuelle Messerwerte, Handelsrechner, Marktpreise und faire Handelstipps für Survive the Killer."
+  },
+  "characters": {
+    "overviewTitle": "Survive the Killer Charaktere & Killer",
+    "overviewDescription": "Umfassende Liste und Analyse aller Killer in Survive the Killer, einschließlich Jason, Grimsley, Malvus und speziellen Killern."
+  },
+  "maps": {
+    "overviewTitle": "Survive the Killer Karten & Orte",
+    "overviewDescription": "Detaillierte Übersicht über alle Karten in Survive the Killer, einschließlich Hütten, Area 51, Spukhaus, Fluchtwege und Verstecke."
+  },
+  "progression": {
+    "overviewTitle": "Survive the Killer Fortschritt, Events & Updates",
+    "overviewDescription": "Verfolge Level-Systeme, Edelsteine, Münzen, Beute-Mechaniken, saisonale Events, XP-Boosts und aktuelle Updates in Survive the Killer."
   }
 }
