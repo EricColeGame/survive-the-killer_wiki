@@ -1,1 +1,38 @@
-{}
+{
+  "site": {
+    "name": "Survive the Killer Wiki",
+    "shortName": "Survive the Killer",
+    "tagline": "Komplette Guides, Codes, Waffen und Killer",
+    "description": "Komplette Survive the Killer Wiki mit Roblox-Codes, Waffen-Guides, Killer-Tipps, Karten und Überlebensstrategien.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler."
+  },
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "items": "Gegenstände",
+    "trading": "Handel",
+    "characters": "Charaktere",
+    "maps": "Karten",
+    "progression": "Fortschritt"
+  },
+  "home": {
+    "meta": {
+      "title": "Survive the Killer Wiki — Codes, Waffen und Guides",
+      "description": "Guides, Codes und Überlebensstrategien für Survive the Killer."
+    },
+    "hero": {
+      "eyebrow": "Roblox-Horror- und Überlebensspiel",
+      "title": "Survive the Killer Wiki",
+      "description": "Entkomme gefährlichen Killern, erfülle Ziele und überlebe jede Runde in Roblox.",
+      "primaryCta": "Überlebens-Guide",
+      "secondaryCta": "Killer und Waffen",
+      "tertiaryCta": "Aktive Codes",
+      "videoLabel": "Offizielle Medien"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides ansehen",
+      "viewAll": "Alle anzeigen"
+    }
+  }
+}
