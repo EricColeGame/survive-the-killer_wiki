@@ -12,7 +12,7 @@ import { routing } from "@/i18n/routing";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://survive-the-killer.wiki";
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -24,8 +24,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "VV: ULTIMATUM Wiki", template: "%s" },
-    description: "Complete VV: ULTIMATUM fan wiki with codes, bosses, builds, races, guides and progression walkthroughs.",
+    title: { default: "Survive the Killer Wiki", template: "%s" },
+    description: "Complete Survive the Killer Wiki with Roblox codes, weapon guides, killer tips, maps, skins, and survival strategies to help players escape every round.",
     openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
     twitter: { card: "summary_large_image", images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
@@ -38,7 +38,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
   if (!hasLocale(routing.locales, locale)) notFound();
   const messages = await getMessages({ locale });
   const organization = {
-    "@context": "https://schema.org",
+    "@context": "https://survive-the-killer.wiki",
     "@type": "Organization",
     name: siteConfig.name,
     url: siteUrl,
@@ -56,10 +56,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
             async
             strategy="afterInteractive"
             crossOrigin="anonymous"
-            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseId}`}
-          />
-        )}
-        <ThemeProvider attribute="class" defaultTheme="dark" enableSystem={false}>
+            src={`https://survive-the-killer.wiki"class" defaultTheme="dark" enableSystem={false}>
           <NextIntlClientProvider messages={messages}>
             <JsonLd data={organization} />
             <SiteHeader locale={locale} />

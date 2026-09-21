@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Survive the Killer Wiki",
+    "shortName": "Survive the Killer",
+    "tagline": "Complete Guides, Codes, Weapons & Killers",
+    "description": "Complete Survive the Killer Wiki with Roblox codes, weapon guides, killer tips, maps, skins, and survival strategies to help players escape every round.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,21 +26,21 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Survive the Killer Wiki — Codes, Weapons & Guides",
+      "description": "Complete Survive the Killer Wiki with Roblox codes, weapon guides, killer tips, maps, skins, and survival strategies to help players escape every round."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Roblox Horror Survival Game",
+      "title": "Survive the Killer Wiki",
+      "description": "Survive the Killer is a Roblox horror survival game where players escape dangerous killers, complete objectives, unlock weapons, collect skins, and survive intense rounds.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "1B+ Total Visits",
+        "100+ Weapons Available",
+        "Active Codes",
+        "Weekly Updates"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "primaryCta": "Survival Guide",
+      "secondaryCta": "Killers & Weapons",
       "tertiaryCta": "Active Codes",
       "videoLabel": "Official media"
     },
@@ -342,9 +342,9 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
-      "primary": "Read the Beginner Guide",
+      "title": "Ready to Survive the Killer?",
+      "description": "From your first round escaping killers to mastering weapons and unlocking rare skins, our community wiki has you covered with free, up-to-date guides.",
+      "primary": "Read the Survival Guide",
       "secondary": "Play on Roblox"
     }
   },
@@ -379,21 +379,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Survive the Killer Wiki",
+    "about": "Survive the Killer Wiki is an independent fan-built guide hub covering survival strategies, killers, weapons, codes, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "copyright": "2026 Survive the Killer Wiki. Not affiliated with DRed Studios, Slyce Entertainment, or Roblox.",
+    "description": "Roblox horror survival game. Escape dangerous killers, unlock weapons, collect skins, and survive intense rounds.",
+    "playGame": "Play Survive the Killer",
+    "officialDiscord": "Roblox Community Discord",
+    "officialYoutube": "Roblox YouTube",
+    "vvBuilder": "Wiki Community",
+    "beginnerGuide": "Survival Guide",
+    "raceGuides": "Killers Guide",
+    "bossGuides": "Weapons Guide",
+    "buildGuide": "Maps & Tips",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
